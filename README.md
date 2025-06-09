@@ -16,13 +16,11 @@ So i didn't know how to fix them, they i though i have pushed a good version int
 ```git fetch origin 
 git reset --hard origin/main```
 
+
 and everything works back perfectly fine  
 
 
 ______________________________________________
 (Just for me [I can put a link in here.]())
 
-```python
-I can put in here some code
-```
 
