@@ -16,6 +16,9 @@ So i didn't know how to fix them, they i though i have pushed a good version int
 ```git fetch origin 
 git reset --hard origin/main```
 
+- Had a lot of issues with deploying the function app to azure. As i was still getting deployment errors that my resource group name contains wrong characters. Seems it is a common issue and needed to firstly create an function app in Azure and then deploy it with "Advance" settings from VSCode.
+- The next things is that i couldn't find Function URL in Azure. 
+- Now facing the issue when i test the code using https.... i get error 404... Probably something with CORS. Will leave it for the next time.
 
 and everything works back perfectly fine  
 
